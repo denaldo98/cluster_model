@@ -10,6 +10,6 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/denaldo98/cluster_model',
     license='MIT',
-    packages=['river_class'],
+    packages=['cluster_model'],
     install_requires=['river'],
 )
