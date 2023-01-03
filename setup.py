@@ -6,7 +6,7 @@ setuptools.setup(
     author='Denaldo Lapi',
     author_email='denaldo98@gmail.com',
     description='Class for wrapping a cluster model from the river package for BERTopic Online Topic Modeling',
-    long_description=open("README.MD").read(),
+    long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url='https://github.com/denaldo98/cluster_model',
     license='MIT',
